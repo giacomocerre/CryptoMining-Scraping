@@ -5,7 +5,7 @@ import re
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-with open('mining_eqp_2.csv', mode='w') as mining:
+with open('mining_eqp.csv', mode='w') as mining:
     with open('url.txt', 'r') as f:
         for url in f:
             driver.get(url)
