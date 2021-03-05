@@ -1,9 +1,3 @@
-# DJsite
-
-This repo contains twos python script to take all the cryptovalue information of the miners software
-
-...
-
 # CryptoMining-Scraping
 
 CryptoMining-Scraping contains two Python o take all the cryptovalue information of the miners software.
